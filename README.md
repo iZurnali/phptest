@@ -40,7 +40,5 @@ Netiks vērtēts:
 
 ### Projekta nodošana
 
-Gatavā risinājuma git repozitoriju ievietot **privātā** GitHub repozitorijā un nosūtīt piekļuves lietotājam `https://github.com/JPurinsh`
-
-Ja GitHub nav opcija, tad var sūtīt arī .zip ar iekļautu pilnu .git vēsturi. 
+Gatavā risinājuma git repozitoriju ievietot **privātā** GitHub repozitorijā un nosūtīt piekļuves lietotājam `https://github.com/ralfsspirga`
 
