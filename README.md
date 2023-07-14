@@ -6,7 +6,7 @@ Izveidot mini web aplikāciju ar šādu funkcionalitāti:
 
 1. Kā lietotājs varu augšupielādēt un importēt eksel failu ar datiem rēķinu sagatavošanai 
    1. Piemēra fails importam: `imports.xlsx`. 
-   2. Importa kolonnu secība ir strikti definēta, potenciāli citos importa failus tā būs nemainīgi tieši tāda pati. 
+   2. Importa kolonnu secība ir strikti definēta, potenciāli citos importa failos tā būs nemainīgi tieši tāda pati. 
    3. Kolonnā "Pakalpojumi" ieraksti atdalīti ar semikolu (;). Starp tiem katram pakalpojumam ir ar komatu (,) atdalītas 5 vērtības pēc kārtas - pakalpojums, mērienība, skaits, cena un summa.
    4. Ielasot datus nav jāveic matemātika vai jāpārbauda rēķina summas, dati jāielasa tieši tā kā norādīts failā.
 2. Kā lietotājs varu redzēt importētos rēķinus tabulā (kā sarakstu)
